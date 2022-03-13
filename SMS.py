@@ -4,6 +4,7 @@ from tkinter import ttk
 #from academic.academic import academic as acd
 import time
 import datetime
+from tkinter import messagebox
 
 #________________________________________________________________________________
 root=Tk()
